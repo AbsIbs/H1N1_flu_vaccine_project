@@ -26,9 +26,9 @@ blah! blah! blah!
   <br>
   -Emsemble Methods
   <br>
-      - Bagging: Random Forest
+          - Bagging: Random Forest
       <br>
-      - Boosting: Ada Boost, Gradient Boost, Histogram Gradient Boost
+          - Boosting: Ada Boost, Gradient Boost, Histogram Gradient Boost
       
 
 ## Business Results
