@@ -22,8 +22,16 @@ blah! blah! blah!
   <li>Voting Classifier</li>
   <li>Emsemble Methods
     <ul>
-          <li>Bagging: Random Forest</li>
-          <li>Boosting: Ada Boost, Gradient Boost, Histogram Gradient Boost</li>
+          <li>Bagging: 
+            <ul>
+              <li>Random Forest</li>
+            </ul>
+          <li>Boosting: 
+             <ul>
+                <li>Ada Boost</li>
+                   <li>Gradient Boost</li>
+                      <li>Histogram Gradient Boost</li>
+               </ul>
     </ul>
 </ul>
 
