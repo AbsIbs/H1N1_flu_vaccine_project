@@ -3,11 +3,19 @@
 
 ## Project Overview
 
-blah! 
+The North Georgia Hospital System has asked us, The Radiant Gradients, if we can predict whether people received the H1N1 and seasonal flu vaccines. They have provided us with all the necessary data, which we will use to complete this analysis.
 
 ## Business Problem
 
-blah! blah! 
+<ul>
+  <li>Which features are the most important in predicting whether a person received a seasonal flu shot?</li>
+  <li>Which features are the most important in predicting whether a person received a H1N1 flu shot?</li>
+  <br>
+  <li>Which model is the most effective in predicting whether a person received a seasonal flu shot?</li>
+  <li>Which model is the most effective in predicting whether a person received a H1N1 flu shot?</li>
+</ul>
+
+using information they shared about their backgrounds, opinions, and health behaviors?
 
 ## The Data
 
