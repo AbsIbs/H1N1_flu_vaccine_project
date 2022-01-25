@@ -35,18 +35,18 @@ The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS)
 
 The dataset contains the following columns/ information:
 <ul>
-<li>h1n1_vaccine - Have they received H1N1 flu vaccine</li>
-<li>seasonal_vaccine - Have they received seasonal flu vaccine</li>
-<li>h1n1_concern - Level of concern about the H1N1 flu. 0 = Not at all concerned; 1 = Not very concerned; 2 = Somewhat concerned; 3 = Very concerned</li>
-<li>h1n1_knowledge - Level of knowledge about H1N1 flu. 0 = No knowledge; 1 = A little knowledge; 2 = A lot of knowledge</li>
-<li>behavioral_antiviral_meds - Have they taken antiviral medications (binary)</li>
-<li>behavioral_avoidance - Do they avoid close contact with others with flu-like symptoms (binary)</li>
-<li>behavioral_face_mask - Do they have a face mask (binary)</li>
-<li>behavioral_wash_hands - Do they frequently wash their hands (binary)</li>
-<li>behavioral_large_gatherings - Have they avoided large gatherings (binary)</li>
-<li>behavioral_outside_home - Have they reduced contact with people outside of their own home (binary)</li>
-<li>behavioral_touch_face - Do they avoid touching their face (binary)</li>
-<li>doctor_recc_h1n1 - Was the H1N1 flu vaccine was recommended by doctor (binary)</li>
+<li>'h1n1_vaccine' - Have they received H1N1 flu vaccine</li>
+<li>'seasonal_vaccine' - Have they received seasonal flu vaccine</li>
+<li>'h1n1_concern' - Level of concern about the H1N1 flu. 0 = Not at all concerned; 1 = Not very concerned; 2 = Somewhat concerned; 3 = Very concerned</li>
+<li>'h1n1_knowledge' - Level of knowledge about H1N1 flu. 0 = No knowledge; 1 = A little knowledge; 2 = A lot of knowledge</li>
+<li>'behavioral_antiviral_meds' - Have they taken antiviral medications (binary)</li>
+<li>'behavioral_avoidance' - Do they avoid close contact with others with flu-like symptoms (binary)</li>
+<li>'behavioral_face_mask' - Do they have a face mask (binary)</li>
+<li>'behavioral_wash_hands' - Do they frequently wash their hands (binary)</li>
+<li>'behavioral_large_gatherings' - Have they avoided large gatherings (binary)</li>
+<li>'behavioral_outside_home' - Have they reduced contact with people outside of their own home (binary)</li>
+<li>'behavioral_touch_face' - Do they avoid touching their face (binary)</li>
+<li>'doctor_recc_h1n1' - Was the H1N1 flu vaccine was recommended by doctor (binary)</li>
 <li>doctor_recc_seasonal - Was the Seasonal flu vaccine was recommended by doctor (binary)</li>
 <li>chronic_med_condition - Do they have any of the following chronic medical conditions: asthma or an other lung condition, diabetes, a heart condition, a kidney condition, sickle cell anemia or other anemia, a neurological or neuromuscular condition, a liver condition, or a weakened immune system caused by a chronic illness or by medicines taken for a chronic illness (binary)</li>
 <li>child_under_6_months - Are they in close contact with a child under the age of six months (binary)</li>
