@@ -37,8 +37,8 @@ The dataset contains the following columns/ information:
 <ul>
 <li>h1n1_vaccine - Have they received H1N1 flu vaccine</li>
 <li>seasonal_vaccine - Have they received seasonal flu vaccine</li>
-<li>h1n1_concern - Level of concern about the H1N1 flu. 0 = Not at all concerned; 1 = Not very concerned; 2 = Somewhat concerned; 3 = Very concerned</li>
-<li>h1n1_knowledge - Level of knowledge about H1N1 flu. 0 = No knowledge; 1 = A little knowledge; 2 = A lot of knowledge</li>
+<li>h1n1_concern - Level of concern about the H1N1 flu on a scale from 0-3</li>
+<li>h1n1_knowledge - Level of knowledge about H1N1 flu on a scale from 0-3</li>
 <li>behavioral_antiviral_meds - Have they taken antiviral medications (binary)</li>
 <li>behavioral_avoidance - Do they avoid close contact with others with flu-like symptoms (binary)</li>
 <li>behavioral_face_mask - Do they have a face mask (binary)</li>
@@ -53,9 +53,9 @@ The dataset contains the following columns/ information:
 <li>health_worker - Are they a healthcare worker (binary)</li>
 <li>health_insurance - Do they have health insurance (binary)</li>
 <li>opinion_h1n1_vacc_effective -  What is their opinion about H1N1 vaccine effectiveness on a scale from 1-5</li>
-<li>opinion_h1n1_risk** - What is their opinion about risk of getting sick with H1N1 flu without vaccine on a scale from 1-5</li>
-<li>opinion_h1n1_sick_from_vacc** - Are they worried about getting sick from taking H1N1 vaccine on a scale from 1-5</li>
-<li>opinion_seas_vacc_effective** - What is their opinion about seasonal flu vaccine effectiveness on a scale from 1-5</li>
+<li>opinion_h1n1_risk - What is their opinion about risk of getting sick with H1N1 flu without vaccine on a scale from 1-5</li>
+<li>opinion_h1n1_sick_from_vacc - Are they worried about getting sick from taking H1N1 vaccine on a scale from 1-5</li>
+<li>opinion_seas_vacc_effective - What is their opinion about seasonal flu vaccine effectiveness on a scale from 1-5</li>
 <li>opinion_seas_risk - What is their opinion about risk of getting sick with seasonal flu without vaccine on a scale from 1-5</li>
 <li>opinion_seas_sick_from_vacc - Are they worried about getting sick from taking seasonal flu vaccine on a scale from 1-5</li>
 <li>age_group - What age group do they fall into</li>
@@ -81,7 +81,7 @@ The dataset contains the following columns/ information:
   <li>Support Vector Machines</li>
   <li>Naive Bayes</li>
   <li>Voting Classifier</li>
-  <li>Emsemble Methods
+  <li>Ensemble Methods
     <ul>
           <li>Bagging: 
             <ul>
