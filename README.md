@@ -5,10 +5,23 @@
 
 blah! 
 
-### Business Problem
+## Business Problem
 
 blah! blah! 
 
-### The Data
+## The Data
 
 blah! blah! blah! 
+
+## Methodology 
+
+blah! blah! blah! blah!
+
+## Business Results
+
+blah! blah! blah! blah! blah!
+
+## Conclusion
+
+blah! blah! blah! blah! blah! blah!
+
