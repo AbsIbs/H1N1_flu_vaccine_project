@@ -35,7 +35,7 @@ The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS)
 
 The dataset contains the following columns/ information:
 <ul>
-<li>**h1n1_vaccine** - Have they received H1N1 flu vaccine</li>
+<li>h1n1_vaccine - Have they received H1N1 flu vaccine</li>
 <li>seasonal_vaccine - Have they received seasonal flu vaccine</li>
 <li>h1n1_concern - Level of concern about the H1N1 flu. 0 = Not at all concerned; 1 = Not very concerned; 2 = Somewhat concerned; 3 = Very concerned</li>
 <li>h1n1_knowledge - Level of knowledge about H1N1 flu. 0 = No knowledge; 1 = A little knowledge; 2 = A lot of knowledge</li>
@@ -48,7 +48,7 @@ The dataset contains the following columns/ information:
 <li>behavioral_touch_face - Do they avoid touching their face (binary)</li>
 <li>doctor_recc_h1n1 - Was the H1N1 flu vaccine was recommended by doctor (binary)</li>
 <li>doctor_recc_seasonal - Was the Seasonal flu vaccine was recommended by doctor (binary)</li>
-<li>chronic_med_condition - Do they have any of the following chronic medical conditions: asthma or an other lung condition, diabetes, a heart condition, a kidney condition, sickle cell anemia or other anemia, a neurological or neuromuscular condition, a liver condition, or a weakened immune system caused by a chronic illness or by medicines taken for a chronic illness (binary)</li>
+<li>chronic_med_condition - Do they have chronic medical conditions (binary)</li>
 <li>child_under_6_months - Are they in close contact with a child under the age of six months (binary)</li>
 <li>health_worker - Are they a healthcare worker (binary)</li>
 <li>health_insurance - Do they have health insurance (binary)</li>
@@ -66,7 +66,7 @@ The dataset contains the following columns/ information:
 <li>marital_status - Married or Not Married</li>
 <li>rent_or_own - Housing situation (Rent or Own)</li>
 <li>employment_status - Employment status (Employed or Unemployed)</li>
-<li>hhs_geo_region - Residence using a 10-region geographic classification defined by the U.S. Dept. of Health and Human Services - values are random character strings</li>
+<li>hhs_geo_region - Residence using a 10-region geographic classification - values are random character strings</li>
 <li>census_msa** - Where is the residence within metropolitan statistical areas (MSA) as defined by the U.S. Census</li>
 <li>household_adults - Number of other adults in household, top-coded to 3</li>
 <li>household_children - Number of children in household, top-coded to 3</li>
