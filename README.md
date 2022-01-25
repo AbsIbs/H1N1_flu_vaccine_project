@@ -7,6 +7,17 @@ The North Georgia Hospital System has asked us, The Radiant Gradients, if we can
 
 ## Business Problem
 
+** NEED TO WRITE BUSINESS PROBLEM
+How can we predict whether a person received a seasonal or H1N1 flu vaccine?
+** NEED TO WRIE DOWN RECOMMENDATIONS
+
+Based on our analysis of the data, we would recommend:
+<ul>
+  <li>X</li>
+  <li>Y</li>
+  <li>Z?</li>
+</ul>
+
 ### Guiding Questions for Predictive Modeling
 <ul>
   <li>Which features are the most important in predicting whether a person received a seasonal flu shot?</li>
