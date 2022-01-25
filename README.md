@@ -14,8 +14,15 @@ blah! blah!
 blah! blah! blah! 
 
 ## Methodology 
-
-blah! blah! blah! blah!
+  -Logistic Regression
+  -Decision Tree
+  -Support Vector Machines
+  -Naive Bayes
+  -Voting Classifier
+  -Emsemble Methods
+      - Bagging: Random Forest
+      - Boosting: Ada Boost, Gradient Boost, Histogram Gradient Boost
+      
 
 ## Business Results
 
