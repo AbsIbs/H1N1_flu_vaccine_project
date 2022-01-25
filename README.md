@@ -17,11 +17,17 @@ blah! blah! blah!
   -Logistic Regression
   <br>
   -Decision Tree
+  <br>
   -Support Vector Machines
+  <br>
   -Naive Bayes
+  <br>
   -Voting Classifier
+  <br>
   -Emsemble Methods
+  <br>
       - Bagging: Random Forest
+      <br>
       - Boosting: Ada Boost, Gradient Boost, Histogram Gradient Boost
       
 
