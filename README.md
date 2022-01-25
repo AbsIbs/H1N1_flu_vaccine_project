@@ -92,6 +92,7 @@ The dataset contains the following columns/ information:
                 <li>Ada Boost</li>
                    <li>Gradient Boost</li>
                       <li>Histogram Gradient Boost</li>
+               <li>Cat Boost</li>
                </ul>
     </ul>
 </ul>
