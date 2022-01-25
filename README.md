@@ -7,19 +7,19 @@ The North Georgia Hospital System has asked us, The Radiant Gradients, if we can
 
 ## Business Problem
 
+### Guiding Questions for Predictive Modeling
 <ul>
   <li>Which features are the most important in predicting whether a person received a seasonal flu shot?</li>
   <li>Which features are the most important in predicting whether a person received a H1N1 flu shot?</li>
-  <br>
   <li>Which model is the most effective in predicting whether a person received a seasonal flu shot?</li>
   <li>Which model is the most effective in predicting whether a person received a H1N1 flu shot?</li>
 </ul>
 
-using information they shared about their backgrounds, opinions, and health behaviors?
+
 
 ## The Data
 
-blah! blah! blah! 
+The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS) which was held by the Centres for Disease Control and Prevention (CDC). This survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. This data was obtained to get a fair idea about the knowledge of people on the effectiveness and safety of flu vaccines and to learn why some people refrained from getting vaccinated against the H1N1 flu and seasonal flu.
 
 ## Methodology 
 <ul>
