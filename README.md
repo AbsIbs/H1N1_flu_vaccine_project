@@ -35,7 +35,7 @@ The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS)
 
 The dataset contains the following columns/ information:
 <ul>
-<li>h1n1_vaccine - Have they received H1N1 flu vaccine</li>
+<li><strong>h1n1_vaccine</strong> - Have they received H1N1 flu vaccine</li>
 <li>seasonal_vaccine - Have they received seasonal flu vaccine</li>
 <li>h1n1_concern - Level of concern about the H1N1 flu on a scale from 0-3</li>
 <li>h1n1_knowledge - Level of knowledge about H1N1 flu on a scale from 0-3</li>
