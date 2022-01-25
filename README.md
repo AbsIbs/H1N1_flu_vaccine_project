@@ -15,6 +15,7 @@ blah! blah! blah!
 
 ## Methodology 
   -Logistic Regression
+  <br>
   -Decision Tree
   -Support Vector Machines
   -Naive Bayes
