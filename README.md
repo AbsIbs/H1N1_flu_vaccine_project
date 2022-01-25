@@ -99,7 +99,7 @@ The dataset contains the following columns/ information:
       
 
 ## Business Results
-![linebanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/linebanner2.png)
+![linebanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/linebanner3.png)
 
 blah! blah! blah! blah! blah!
 
