@@ -104,7 +104,7 @@ blah! blah! blah! blah! blah!
 
 ## Conclusion
 
-![bottlebanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/bottle%20banner3.jpeg)
+![bottlebanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/bottle%20banner.jpeg)
 
 blah! blah! blah! blah! blah! blah!
 
