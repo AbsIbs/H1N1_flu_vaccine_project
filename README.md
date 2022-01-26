@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-The North Georgia Hospital System has asked us, The Radiant Gradients, if we can predict whether people received the H1N1 and seasonal flu vaccines. They have provided us with all the necessary data, which we will use to complete this analysis.
+The North Georgia Hospital System has asked us, The Calc-A-Holics, if we can predict whether people received the H1N1 and seasonal flu vaccines. They have provided us with all the necessary data, which we will use to complete this analysis.
 
 ## Business Problem
 
