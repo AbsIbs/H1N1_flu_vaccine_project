@@ -7,9 +7,8 @@ The North Georgia Hospital System has asked us, The Radiant Gradients, if we can
 
 ## Business Problem
 
-** NEED TO WRITE BUSINESS PROBLEM
 How can we predict whether a person received a seasonal or H1N1 flu vaccine?
-** NEED TO WRIE DOWN RECOMMENDATIONS
+
 
 Based on our analysis of the data, we would recommend:
 <ul>
