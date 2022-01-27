@@ -23,10 +23,10 @@ We will dive into this further below!
 
 ### Guiding Questions for Predictive Modeling
 <ul>
-  <li>Which features are the most important in predicting whether a person received a seasonal flu shot?</li>
-  <li>Which features are the most important in predicting whether a person received a H1N1 flu shot?</li>
   <li>Which model is the most effective in predicting whether a person received a seasonal flu shot?</li>
   <li>Which model is the most effective in predicting whether a person received a H1N1 flu shot?</li>
+  <li>Which features are the most important in predicting whether a person received a seasonal flu shot?</li>
+  <li>Which features are the most important in predicting whether a person received a H1N1 flu shot?</li>
 </ul>
 
 
