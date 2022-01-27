@@ -1,1 +1,111 @@
-# H1N1_flu_vaccine_project
+# H1N1 and Seasonal Flu Vaccine Predictions
+![fluvirus](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/flu%20banner.jpeg)
+
+## Project Overview
+
+The North Georgia Hospital System has asked us, The Calc-A-Holics, if we can predict whether people received the H1N1 and seasonal flu vaccines. They have provided us with all the necessary data, which we will use to complete this analysis.
+
+## Business Problem
+
+How can we predict whether a person received a seasonal or H1N1 flu vaccine?
+
+
+Based on our analysis of the data, we would recommend:
+<ul>
+  <li>X</li>
+  <li>Y</li>
+  <li>Z?</li>
+</ul>
+
+### Guiding Questions for Predictive Modeling
+<ul>
+  <li>Which features are the most important in predicting whether a person received a seasonal flu shot?</li>
+  <li>Which features are the most important in predicting whether a person received a H1N1 flu shot?</li>
+  <li>Which model is the most effective in predicting whether a person received a seasonal flu shot?</li>
+  <li>Which model is the most effective in predicting whether a person received a H1N1 flu shot?</li>
+</ul>
+
+
+
+## The Data
+![databanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/data-science-banner.jpeg)
+
+The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS) which was held by the Centres for Disease Control and Prevention (CDC). This survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. This data was obtained to get a fair idea about the knowledge of people on the effectiveness and safety of flu vaccines and to learn why some people refrained from getting vaccinated against the H1N1 flu and seasonal flu.
+
+The dataset contains the following columns/ information:
+<ul>
+<li><strong>h1n1_vaccine</strong> - Have they received H1N1 flu vaccine</li>
+<li><strong>seasonal_vaccine</strong> - Have they received seasonal flu vaccine</li>
+<li><strong>h1n1_concern</strong> - Level of concern about the H1N1 flu on a scale from 0-3</li>
+<li><strong>h1n1_knowledge</strong> - Level of knowledge about H1N1 flu on a scale from 0-3</li>
+<li><strong>behavioral_antiviral_meds</strong> - Have they taken antiviral medications (binary)</li>
+<li><strong>behavioral_avoidance</strong> - Do they avoid close contact with others with flu-like symptoms (binary)</li>
+<li><strong>behavioral_face_mask</strong> - Do they have a face mask (binary)</li>
+<li><strong>behavioral_wash_hands</strong> - Do they frequently wash their hands (binary)</li>
+<li><strong>behavioral_large_gathering</strong>s - Have they avoided large gatherings (binary)</li>
+<li><strong>behavioral_outside_home</strong> - Have they reduced contact with people outside of their own home (binary)</li>
+<li><strong>behavioral_touch_face</strong> - Do they avoid touching their face (binary)</li>
+<li><strong>doctor_recc_h1n1</strong> - Was the H1N1 flu vaccine was recommended by doctor (binary)</li>
+<li><strong>doctor_recc_seasonal</strong> - Was the Seasonal flu vaccine was recommended by doctor (binary)</li>
+<li><strong>chronic_med_condition</strong> - Do they have chronic medical conditions (binary)</li>
+<li><strong>child_under_6_months</strong> - Are they in close contact with a child under the age of six months (binary)</li>
+<li><strong>health_worker</strong> - Are they a healthcare worker (binary)</li>
+<li><strong>health_insurance</strong> - Do they have health insurance (binary)</li>
+<li><strong>opinion_h1n1_vacc_effective</strong> -  What is their opinion about H1N1 vaccine effectiveness on a scale from 1-5</li>
+<li><strong>opinion_h1n1_risk</strong> - What is their opinion about risk of getting sick with H1N1 flu without vaccine on a scale from 1-5</li>
+<li><strong>opinion_h1n1_sick_from_vacc</strong> - Are they worried about getting sick from taking H1N1 vaccine on a scale from 1-5</li>
+<li><strong>opinion_seas_vacc_effective</strong> - What is their opinion about seasonal flu vaccine effectiveness on a scale from 1-5</li>
+<li><strong>opinion_seas_risk</strong> - What is their opinion about risk of getting sick with seasonal flu without vaccine on a scale from 1-5</li>
+<li><strong>opinion_seas_sick_from_vacc</strong> - Are they worried about getting sick from taking seasonal flu vaccine on a scale from 1-5</li>
+<li><strong>age_group</strong> - What age group do they fall into</li>
+<li><strong>education</strong> - What is their education level</li>
+<li><strong>race</strong> - Race </li>
+<li><strong>sex</strong> - Sex </li>
+<li><strong>income_poverty</strong> - Household annual income with respect to 2008 Census poverty thresholds</li>
+<li><strong>marital_status</strong> - Married or Not Married</li>
+<li><strong>rent_or_own</strong> - Housing situation (Rent or Own)</li>
+<li><strong>employment_status</strong> - Employment status (Employed or Unemployed)</li>
+<li><strong>hhs_geo_region</strong> - Residence using a 10-region geographic classification - values are random character strings</li>
+<li><strong>census_msa</strong> - Where is the residence within metropolitan statistical areas (MSA) as defined by the U.S. Census</li>
+<li><strong>household_adults</strong> - Number of other adults in household, top-coded to 3</li>
+<li><strong>household_children</strong> - Number of children in household, top-coded to 3</li>
+<li><strong>employment_industry</strong> - Type of industry they are employed in - values are random character strings</li>
+<li><strong>employment_occupation</strong> - Type of occupation - values are random character strings.</li>
+</ul>
+
+## Methodology 
+<ul>
+  <li>Logistic Regression</li>
+  <li>Decision Tree</li>
+  <li>Support Vector Machines</li>
+  <li>Naive Bayes</li>
+  <li>Voting Classifier</li>
+  <li>Ensemble Methods
+    <ul>
+          <li>Bagging: 
+            <ul>
+              <li>Random Forest</li>
+            </ul>
+          <li>Boosting: 
+             <ul>
+                <li>Ada Boost</li>
+                   <li>Gradient Boost</li>
+                      <li>Histogram Gradient Boost</li>
+               <li>Cat Boost</li>
+               </ul>
+    </ul>
+</ul>
+
+      
+
+## Business Results
+
+
+blah! blah! blah! blah! blah!
+
+## Conclusion
+
+![bottlebanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/bottle%20banner.jpeg)
+
+blah! blah! blah! blah! blah! blah!
+
