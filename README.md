@@ -9,6 +9,7 @@ We have been hired by the CDC as a part of a campaign to increase awareness and 
 
 Which factors most influence whether a person receives a seasonal or H1N1 flu vaccine?
 
+## Recommendations
 
 Based on our analysis of the data, we would recommend honing in on these 4 factors:
 <ul>
