@@ -4,6 +4,29 @@ def model_evaluation(X_train, X_test, y_train, y_test,
                          folder_name = None, 
                          ):
     
+    import numpy as np
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.tree import DecisionTreeClassifier
+    from sklearn.neighbors import KNeighborsClassifier
+    from sklearn.naive_bayes import CategoricalNB
+
+    from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier
+
+    from sklearn.experimental import enable_hist_gradient_boosting
+    from sklearn.ensemble import HistGradientBoostingClassifier
+
+    from sklearn.svm import SVC
+    from sklearn.linear_model import PassiveAggressiveClassifier
+    from sklearn.model_selection import RandomizedSearchCV
+    
+    from sklearn.model_selection import cross_val_score
+    from sklearn.metrics import accuracy_score, recall_score, f1_score, precision_score
+    from sklearn.metrics import roc_auc_score
+    from sklearn.metrics import plot_confusion_matrix
+    from sklearn.metrics import plot_roc_curve
+    from sklearn.metrics import roc_curve, auc
+    
+    
     # Create a summary dictionary
     summary_dict = {}
     
@@ -66,28 +89,35 @@ def model_evaluation(X_train, X_test, y_train, y_test,
     return summary_dict
     
 def preprocessing_function(X_train):
-        X_train = X_train
-        
-        numericals = []
-        non_numericals = []
+    from sklearn.pipeline import Pipeline
+    from sklearn.impute import SimpleImputer
+    from sklearn.preprocessing import StandardScaler
+    from sklearn.preprocessing import MinMaxScaler
+    from sklearn.preprocessing import OneHotEncoder
+    from sklearn.compose import ColumnTransformer
 
-        for column in X_train.columns:
-            if X_train[column].dtype == 'float64':
-                numericals.append(column)
-            if X_train[column].dtype == 'object':
-                non_numericals.append(column)
-    
-        numeric_transformer = Pipeline([('imputer', SimpleImputer(strategy='median', add_indicator = True)),
-                                   ('scaler', StandardScaler())])
+    X_train = X_train
 
-        categorical_transformer = Pipeline([('cat_imputer', SimpleImputer(strategy='most_frequent', add_indicator = True)),
-                                        ('encoder', OneHotEncoder(handle_unknown="ignore"))])
+    numericals = []
+    non_numericals = []
 
-        preprocessor = ColumnTransformer(
-            transformers=[
-                ("num", numeric_transformer, numericals),
-                ("cat", categorical_transformer, non_numericals),
-            ]
-        )
-    
-        return preprocessor
+    for column in X_train.columns:
+        if X_train[column].dtype == 'float64':
+            numericals.append(column)
+        if X_train[column].dtype == 'object':
+            non_numericals.append(column)
+
+    numeric_transformer = Pipeline([('imputer', SimpleImputer(strategy='median', add_indicator = True)),
+                               ('scaler', StandardScaler())])
+
+    categorical_transformer = Pipeline([('cat_imputer', SimpleImputer(strategy='most_frequent', add_indicator = True)),
+                                    ('encoder', OneHotEncoder(handle_unknown="ignore"))])
+
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ("num", numeric_transformer, numericals),
+            ("cat", categorical_transformer, non_numericals),
+        ]
+    )
+
+    return preprocessor
