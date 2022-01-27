@@ -3,19 +3,22 @@
 
 ## Project Overview
 
-The North Georgia Hospital System has asked us, The Calc-A-Holics, if we can predict whether people received the H1N1 and seasonal flu vaccines. They have provided us with all the necessary data, which we will use to complete this analysis.
+We have been hired by the CDC as a part of a campaign to increase awareness and encourage more individuals to get vaccinated. We will assist them in making recommendations of how to increase awareness and identify which factors most influence people to get vaccinated.
 
 ## Business Problem
 
-How can we predict whether a person received a seasonal or H1N1 flu vaccine?
+Which factors most influence whether a person receives a seasonal or H1N1 flu vaccine?
 
 
-Based on our analysis of the data, we would recommend:
+Based on our analysis of the data, we would recommend honing in on these 4 factors:
 <ul>
-  <li>X</li>
-  <li>Y</li>
-  <li>Z?</li>
+  <li>Doctor recommendation of vaccines</li>
+  <li>Opinion of vaccine effectiveness</li>
+  <li>Opinion of flu risk</li>
+  <li>Health insurance</li>
 </ul>
+
+We will dive into this further below!
 
 ### Guiding Questions for Predictive Modeling
 <ul>
