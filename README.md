@@ -148,7 +148,7 @@ Overall, the 3 most influential factors in determining whether a person got vacc
 
 <ul> 
 <li> How effective they believed the vaccine to be at protecting against the flu.</li>
-<li> Whether a doctor recommended they get the vaccine.</li>
+<li> Whether a doctor recommended that they get the vaccine.</li>
 <li> Their perceived level of risk of getting sick with the flu without the vaccine.</li>
 </ul>
 
