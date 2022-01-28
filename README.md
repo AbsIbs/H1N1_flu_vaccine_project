@@ -40,7 +40,7 @@ The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS)
 
 The dataset contains the following columns/ information:
 <ul>
-<li><strong>`h1n1_vaccine`</strong> - Have they received H1N1 flu vaccine</li>
+<li><strong>h1n1_vaccine</strong> - Have they received H1N1 flu vaccine</li>
 <li><strong>seasonal_vaccine</strong> - Have they received seasonal flu vaccine</li>
 <li><strong>h1n1_concern</strong> - Level of concern about the H1N1 flu on a scale from 0-3</li>
 <li><strong>h1n1_knowledge</strong> - Level of knowledge about H1N1 flu on a scale from 0-3</li>
@@ -112,6 +112,8 @@ Listed below are the classifiers that we used to create our models:
 </ul>
 
 # Business Results
+<br>
+After making a myriad of different models to predict our targets (H1N1/seasonal vaccinations) we found that our best model was the CatBoost classifier using cross validation and a Bayesian optimization tool called Optuna. It gave us a ROCAUC score of .87 and accuracy of 85% for H1N1 vaccinations while giving us a ROCAUC score of .86 and accuracy of 82% for seasonal vaccinations.  
 
 ## H1N1 Analysis
 
