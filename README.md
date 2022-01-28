@@ -112,27 +112,32 @@ Listed below are the classifiers that we used to create our models:
 </ul>
 
 # Business Results
-<br>
 After making a myriad of different models to predict our targets (H1N1/seasonal vaccinations) we found that our best model was the CatBoost classifier using cross validation and a Bayesian optimization tool called Optuna. It gave us a ROCAUC score of .87 and accuracy of 85% for H1N1 vaccinations while giving us a ROCAUC score of .86 and accuracy of 82% for seasonal vaccinations.  
 
 ## H1N1 Analysis
-
+Here is a graph showing how our models performed based on the ROCAUC score for H1N1 vaccinations.
 ![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20models%20graph.png)
-
+<br>
+ROCAUC Score
 ![h1n1roc](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20roc.png)
-
+<br>
+Confusion Matrix
 ![h1n1confusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20cm.png)
-
+<br>
+Permutation Feature Importance
 ![h1n1permutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20permutation.png)
 
 ## Seasonal Analysis
-
+Here is a graph showing how our models performed based on the ROCAUC score for seasonal vaccinations.
 ![seasonalmodelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20models%20graph.png)
-
+<br>
+ROCAUC Score
 ![seasonalroccurve](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalroc.png)
-
+<br>
+Confusion Matrix
 ![seasonalconfusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20permutation.png)
-
+<br>
+Permutation Feature Importance
 ![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalpermutation.png)
 
 
