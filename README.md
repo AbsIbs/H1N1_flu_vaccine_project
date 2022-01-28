@@ -103,7 +103,6 @@ Listed below are the classifiers that we used to create our models:
             </ul>
           <li>Boosting: 
              <ul>
-                <li>Ada Boost</li>
                    <li>Gradient Boost</li>
                       <li>Histogram Gradient Boost</li>
                <li>Cat Boost</li>
