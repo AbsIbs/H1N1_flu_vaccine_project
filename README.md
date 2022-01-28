@@ -80,6 +80,7 @@ The dataset contains the following columns/ information:
 ## Exploratory Data Analysis
 
 ### Heatmap
+<br>
 We created a heatmap to get a better understanding of the correlations between each feature, and their correlations to the H1N1 and seasonal vaccine. 
 ![heatmap](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%2012.19.07%20AM.png)
 
