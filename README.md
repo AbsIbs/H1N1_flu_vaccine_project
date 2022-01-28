@@ -80,18 +80,18 @@ The dataset contains the following columns/ information:
 </ul>
 
 ## Exploratory Data Analysis
-We do an exploratory data analysis on our dataset before making our predictions on our targets.
 
-There are two target variables found in the dataset:
-
-<li><strong>h1n1_vaccine</strong> - Whether respondent received H1N1 flu vaccine. </li>
-<li><strong>seasonal_vaccine</strong> - Whether respondent received seasonal flu vaccine. </li>
-
+We did a very thorough exploratory data analysis on our dataset before making our predictions on our targets. There are two target variables in the labels dataset:
+<ul>
+<li><strong>h1n1_vaccine</strong></li> - Whether respondent received H1N1 flu vaccine.
+<li>strong>seasonal_vaccine</strong></li> - Whether respondent received seasonal flu vaccine.
+</ul>
 Both are binary variables: 0 = No; 1 = Yes. Some respondents didn't get either vaccine, others got only one, and some got both.
 
-We plotted the features against the targets to see what correlations we can find before creating our models to make predictions using a heatmap and bar graphs.
-
 ### Bar Graphs of Features
+
+We then plotted our features against our targets ('H1N1 Vaccine and Seasonal Vaccine') to see if there are any correlations that need to be considered.
+![image](https://user-images.githubusercontent.com/94410188/151596800-a73eb100-1e5d-4d67-acd2-4a078e74b138.png)
 
 Here are bar graphs of features and their rate based on H1N1 and seasonal survey respondents.
 ![features](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/featuresgraph.png)
