@@ -21,7 +21,7 @@ Based on our analysis of the data, we would recommend honing in on these 4 facto
 
 We will dive into this further below!
 
-### Guiding Questions for Predictive Modeling
+## Guiding Questions for Predictive Modeling
 <ul>
   <li>Which model is the most effective in predicting whether a person received a seasonal flu shot?</li>
   <li>Which model is the most effective in predicting whether a person received a H1N1 flu shot?</li>
@@ -111,5 +111,17 @@ blah! blah! blah! blah! blah!
 
 ![bottlebanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/bottle%20banner.jpeg)
 
-blah! blah! blah! blah! blah! blah!
+Overall, the 3 most influential factors in determining whether a person got vaccinated against the H1N1 or the seasonal flu were:
+
+<ul> How effective they believed the vaccine to be at protecting against the flu.</ul>
+<ul> Whether a doctor recommended they get the vaccine.</ul>
+<ul> Their perceived level of risk of getting sick with the flu without the vaccine.</ul>
+
+## Recommendations
+Based on our analysis, we would make the following 3 recommendations to 
+
+<ul> Doctors should regularly recommend that their patients get vaccinated.</ul>
+<ul> Targeted efforts should be made to inform and provide access to vaccinations for people without health insurance and below the poverty line.</ul>
+<ul> Inform people of the potential risks of H1N1/seasonal flu and provide more education on vaccine effectiveness.</ul>
+
 
