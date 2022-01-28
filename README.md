@@ -80,7 +80,15 @@ The dataset contains the following columns/ information:
 </ul>
 
 ## Exploratory Data Analysis
+We do an exploratory data analysis on our dataset before making our predictions on our targets.
 
+There are two target variables found in the labels dataset:
+
+<li><strong>h1n1_vaccine</strong> - Whether respondent received H1N1 flu vaccine. </li>
+<li><strong>seasonal_vaccine</strong> - Whether respondent received seasonal flu vaccine. </li>
+Both are binary variables: 0 = No; 1 = Yes. Some respondents didn't get either vaccine, others got only one, and some got both.
+
+We use pandas profiling to have pandas make initial observations on our dataset.
 ### Heatmap
 <br>
 We created a heatmap to get a better understanding of the correlations between each feature, and their correlations to the H1N1 and seasonal vaccine. 
