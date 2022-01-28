@@ -81,7 +81,9 @@ The dataset contains the following columns/ information:
 
 ## Exploratory Data Analysis
 
-We did a very thorough exploratory data analysis on our dataset before making our predictions on our targets. There are two target variables in the labels dataset:
+We did a very thorough exploratory data analysis on our dataset before making our predictions on our targets. We changed the non-numerical results to numerical, cleaned up the zeros, and made sure our data was ready to begin the analysis! 
+
+There are two target variables in the labels dataset:
 <ul>
 <li><strong>h1n1_vaccine</strong></li> - Whether respondent received H1N1 flu vaccine.
 <li>strong>seasonal_vaccine</strong></li> - Whether respondent received seasonal flu vaccine.
