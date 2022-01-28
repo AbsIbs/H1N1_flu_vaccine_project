@@ -138,7 +138,7 @@ Here is a graph showing how our models performed based on the ROCAUC score for s
 
 #### ROCAUC Score
 The ROCAUC score for our model was .86.
-
+<br>
 ![seasonalroccurve](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalroc.png)
 
 #### Confusion Matrix
