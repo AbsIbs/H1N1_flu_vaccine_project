@@ -113,15 +113,19 @@ blah! blah! blah! blah! blah!
 
 Overall, the 3 most influential factors in determining whether a person got vaccinated against H1N1 or the seasonal flu were:
 
-<ul> How effective they believed the vaccine to be at protecting against the flu.</ul>
-<ul> Whether a doctor recommended they get the vaccine.</ul>
-<ul> Their perceived level of risk of getting sick with the flu without the vaccine.</ul>
+<ul> 
+<li> How effective they believed the vaccine to be at protecting against the flu.</li>
+<li> Whether a doctor recommended they get the vaccine.</li>
+<li> Their perceived level of risk of getting sick with the flu without the vaccine.</li>
+</ul>
 
 ## Recommendations
 Based on our analysis, we would make the following 3 recommendations to the CDC to help reach their goal of increasing awareness and number of vaccinated people:
 
-<ul> Doctors should regularly recommend that their patients get vaccinated.</ul>
-<ul> Targeted efforts should be made to inform and provide access to vaccinations for people without health insurance and below the poverty line.</ul>
-<ul> Inform people of the potential risks of H1N1/seasonal flu and provide more education on vaccine effectiveness.</ul>
+<ul> 
+<li> Doctors should regularly recommend that their patients get vaccinated.</li>
+<li> Targeted efforts should be made to inform and provide access to vaccinations for people without health insurance and below the poverty line.</li>
+<li> Inform people of the potential risks of H1N1/seasonal flu and provide more education on vaccine effectiveness.</li>
+</ul>
 
 
