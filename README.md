@@ -131,7 +131,7 @@ Listed below are the classifiers that we used to create our models:
 
 ![seasonalconfusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20confusion%20matrix.png)
 
-![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/redid%20graph.png)
+![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20permutation.png)
 
 
 ## A Closer Look at the Health Insurance Feature
