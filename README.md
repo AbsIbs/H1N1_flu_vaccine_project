@@ -31,7 +31,7 @@ We will dive into this further below!
 
 
 
-## The Data
+# The Data
 ![databanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/data-science-banner.jpeg)
 
 The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS) which was held by the Centres for Disease Control and Prevention (CDC). The survey sample consiste of over 26,000 people. This survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. This data was obtained to get a fair idea about the knowledge of people on the effectiveness and safety of flu vaccines and to learn why some people refrained from getting vaccinated against the H1N1 flu and seasonal flu.
@@ -76,6 +76,10 @@ The dataset contains the following columns/ information:
 <li><strong>employment_industry</strong> - Type of industry they are employed in - values are random character strings</li>
 <li><strong>employment_occupation</strong> - Type of occupation - values are random character strings.</li>
 </ul>
+
+## Exploratory Data Analysis
+
+![heatmap](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%2012.19.07%20AM.png)
 
 ## Methodology 
 <ul>
