@@ -161,6 +161,24 @@ The confusion matrix reflects how well our model predicted true(1) when true(1) 
 Like the H1N1 model, the features that were also important in the model's seasonal vaccination accuracy was personal opinions and recommendations from a doctor.
 ![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalpermutation.png)
 
+![agegroup_opnion seas risk_first](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.45.22%20PM.png)
+<br>
+![agegroup_opinionseasonal](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.44.55%20PM.png)
+<br>
+![drrech1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.45.50%20PM.png)
+<br>
+![drrecseasonal](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.45.38%20PM.png)
+<br>
+![povertyh1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.02%20PM.png)
+<br>
+![healthinsh1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.09%20PM.png)
+<br>
+![classification model1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.23%20PM.png)
+<br>
+![classificationmodel2](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.36%20PM.png)
+<br>
+![classificationmodel3](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.49%20PM.png)
+<br>
 
 ## A Closer Look at the Health Insurance Feature
 
