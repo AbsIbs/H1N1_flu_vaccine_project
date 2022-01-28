@@ -161,26 +161,23 @@ The confusion matrix reflects how well our model predicted true(1) when true(1) 
 Like the H1N1 model, the features that were also important in the model's seasonal vaccination accuracy was personal opinions and recommendations from a doctor.
 ![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalpermutation.png)
 
-![agegroup_opnion seas risk_first](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.29.22%20PM.png)
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.29.22%20PM.png" width="500" height="350">
 <br>
-![agegroup_opinionseasonal](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.29.48%20PM.png)
-
-<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.29.48%20PM.png" width="500" height="300">
-
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.29.48%20PM.png" width="500" height="350">
 <br>
-![drrech1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.36.30%20PM.png)
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.36.30%20PM.png" width="500" height="350">
 <br>
-![drrecseasonal](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.36.21%20PM.png)
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.36.21%20PM.png" width="500" height="350">
 <br>
-![povertyh1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.33.55%20PM.png)
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.33.55%20PM.png" width="500" height="350">
 <br>
-![healthinsh1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.34.03%20PM.png)
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.34.03%20PM.png" width="500" height="350">
 <br>
-![classification model1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.23%20PM.png)
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.23%20PM.png" width="500" height="350">
 <br>
-![classificationmodel2](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.36%20PM.png)
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.36%20PM.png" width="500" height="350">
 <br>
-![classificationmodel3](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.49%20PM.png)
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.49%20PM.png" width="500" height="350">
 <br>
 
 ## A Closer Look at the Health Insurance Feature
