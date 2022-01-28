@@ -22,7 +22,7 @@ Based on our analysis of the data, we would recommend honing in on these 4 facto
 We will dive into this further below!
 
 ### Guiding Questions for Predictive Modeling
-<br>
+
 We used these 4 quesitons below as a guide to completing this analysis:
 <ul>
   <li>Which model is the most effective in predicting whether a person received a seasonal flu shot?</li>
@@ -183,6 +183,7 @@ As you can see in the chart below, people with health insurance have a higher li
 <br>
 <img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.34.03%20PM.png" width="500" height="350">
 <br>
+
 ## Another Feature of Importance - Household Income
 
 In addition to not having health insurance, people that have a household income below the poverty line are also less likely to get vaccinated. 
@@ -204,6 +205,7 @@ Overall, the 3 most influential factors in determining whether a person got vacc
 </ul>
 
 ## Recommendations
+
 Based on our analysis, we would make the following 3 recommendations to the CDC to help reach their goal of increasing awareness and increasing the number of vaccinated people:
 
 <ul> 
