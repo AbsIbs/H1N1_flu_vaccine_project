@@ -104,6 +104,8 @@ The dataset contains the following columns/ information:
     </ul>
 </ul>
 
+# Business Results
+
 ## H1N1 Analysis
 
 ![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20models%20graph.png)
@@ -124,10 +126,19 @@ The dataset contains the following columns/ information:
 
 ![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/redid%20graph.png)
 
-## Business Results
 
+## A Closer Look at the Health Insurance Feature
 
-blah! blah! blah! blah! blah!
+As you can see in the chart below, people with health insurance have a higher likelihood of receiving a vaccine. On the other hand, people without insurance are more unlikely to get the vaccine. Individuals without insurance are less likely to see a doctor, so their chances of getting the vaccine recommended to them, falls significantly. As mentioned previous, a doctor's recommendation is one of the top 3 most influential predictors.
+
+![healthinsurancegraph]( INSERT HEALTH INSURANCE GRAPH
+
+## Another Feature of Importance - Household Income
+
+In addition to not having health insurance, people that have a household income below the poverty line are also less likely to get vaccinated. 
+
+![Householdincomegraph]( INSERT HOUSEHOLD INCOME GRAPH
+
 
 # Conclusion
 
