@@ -90,10 +90,7 @@ Both are binary variables: 0 = No; 1 = Yes. Some respondents didn't get either v
 
 ### Bar Graphs of Features
 
-We then plotted our features against our targets ('H1N1 Vaccine and Seasonal Vaccine') to see if there are any correlations that need to be considered.
-![image](https://user-images.githubusercontent.com/94410188/151596800-a73eb100-1e5d-4d67-acd2-4a078e74b138.png)
-
-Here are bar graphs of features and their rate based on H1N1 and seasonal survey respondents.
+We then plotted our features against our targets ('H1N1 Vaccine and Seasonal Vaccine') to see if there are any correlations that need to be considered. Here are the bar graphs of features and their rate based on H1N1 and seasonal survey respondents.
 ![features](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/featuresgraph.png)
 
 ### Heatmap
