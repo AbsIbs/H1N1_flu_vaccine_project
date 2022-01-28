@@ -118,29 +118,32 @@ After making a myriad of different models to predict our targets (H1N1/seasonal 
 Here is a graph showing how our models performed based on the ROCAUC score for H1N1 vaccinations.
 ![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20models%20graph.png)
 
-###ROCAUC Score
+#### ROCAUC Score
 
 ![h1n1roc](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20roc.png)
 
-###Confusion Matrix
+#### Confusion Matrix
 
 ![h1n1confusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20cm.png)
 
-###Permutation Feature Importance
+#### Permutation Feature Importance
 
 ![h1n1permutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20permutation.png)
 
 ## Seasonal Analysis
 Here is a graph showing how our models performed based on the ROCAUC score for seasonal vaccinations.
 ![seasonalmodelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20models%20graph.png)
-<br>
-ROCAUC Score
+
+#### ROCAUC Score
+
 ![seasonalroccurve](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalroc.png)
-<br>
-Confusion Matrix
+
+#### Confusion Matrix
+
 ![seasonalconfusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20permutation.png)
-<br>
-Permutation Feature Importance
+
+#### Permutation Feature Importance
+
 ![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalpermutation.png)
 
 
