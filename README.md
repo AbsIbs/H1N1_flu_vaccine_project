@@ -94,7 +94,7 @@ We plotted the features against the targets to see what correlations we can find
 ### Bar Graphs of Features
 
 Here are bar graphs of features and their rate based on H1N1 and seasonal survey respondents.
-![features](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/features.png)
+![features](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/featuresgraph.png)
 
 ### Heatmap
 <br>
