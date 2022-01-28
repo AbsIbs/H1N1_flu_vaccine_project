@@ -99,7 +99,7 @@ We created a heatmap to get a better understanding of the correlations between e
 ![heatmap](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/heatmap.png)
 
 ## Methodology
-<br>
+
 Listed below are the classifiers that we used to create our models:
 <ul>
   <li>Logistic Regression</li>
@@ -123,41 +123,50 @@ Listed below are the classifiers that we used to create our models:
 </ul>
 
 # Business Results
+
 After making a myriad of different models to predict our targets (H1N1/seasonal vaccinations) we found that our best model was the CatBoost classifier using cross validation and a Bayesian optimization tool called Optuna.
 
 ## H1N1 Analysis
+
 Here is a graph showing how our models performed based on the ROCAUC score for H1N1 vaccinations.
 
 ![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1models.png)
 
 #### ROCAUC Score
+
 The ROCAUC score for our model was .87.
 <br>
 ![h1n1roc](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20roc.png)
 
 #### Confusion Matrix
+
 The confusion matrix reflects how well our model predicted true(1) when true(1) and false(0) when false(0) for H1N1 vaccinations.
 ![h1n1confusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20cm.png)
 
 #### Permutation Feature Importance
+
 Permutation feature importances show us which features were the important in our model's accuracy. It looks like many of the top features were personal opinions about the virus and vaccinations as well as recommendations by a doctor.
 ![h1n1permutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20permutation.png)
 
 ## Seasonal Analysis
+
 Here is a graph showing how our models performed based on the ROCAUC score for seasonal vaccinations.
 
 ![seasonalmodelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalmodels.png)
 
 #### ROCAUC Score
+
 The ROCAUC score for our model was .86.
 <br>
 ![seasonalroccurve](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalroc.png)
 
 #### Confusion Matrix
+
 The confusion matrix reflects how well our model predicted true(1) when true(1) and false(0) when false(0) for seasonal vaccinations. 
 ![seasonalconfusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20permutation.png)
 
 #### Permutation Feature Importance
+
 Like the H1N1 model, the features that were also important in the model's seasonal vaccination accuracy was personal opinions and recommendations from a doctor.
 ![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalpermutation.png)
 
