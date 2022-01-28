@@ -100,7 +100,8 @@ The dataset contains the following columns/ information:
     </ul>
 </ul>
 
-      
+## Analysis
+![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20models%20graph.png)
 
 ## Business Results
 
@@ -120,7 +121,7 @@ Overall, the 3 most influential factors in determining whether a person got vacc
 </ul>
 
 ## Recommendations
-Based on our analysis, we would make the following 3 recommendations to the CDC to help reach their goal of increasing awareness and number of vaccinated people:
+Based on our analysis, we would make the following 3 recommendations to the CDC to help reach their goal of increasing awareness and increasing the number of vaccinated people:
 
 <ul> 
 <li> Doctors should regularly recommend that their patients get vaccinated.</li>
