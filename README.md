@@ -100,8 +100,23 @@ The dataset contains the following columns/ information:
     </ul>
 </ul>
 
-## Analysis
+## H1N1 Analysis
+
 ![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20models%20graph.png)
+
+![h1n1confusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20confusion%20matrix%20(1).png)
+
+![h1n1permutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/redid%20graph%20(1).png)
+
+## Seasonal Analysis
+
+![seasonalmodelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20models%20graph.png
+
+![seasonalroccurve]()
+
+![seasonalconfusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20confusion%20matrix.png
+
+![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/redid%20graph.png)
 
 ## Business Results
 
