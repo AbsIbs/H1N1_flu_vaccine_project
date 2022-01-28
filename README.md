@@ -127,7 +127,7 @@ Listed below are the classifiers that we used to create our models:
 
 ![seasonalmodelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20models%20graph.png)
 
-![seasonalroccurve](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20roc.png)
+![seasonalroccurve](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalroc.png)
 
 ![seasonalconfusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20permutation.png)
 
