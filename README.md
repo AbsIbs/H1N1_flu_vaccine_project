@@ -5,11 +5,11 @@
 
 We have been hired by the CDC as a part of a campaign to increase awareness and encourage more individuals to get vaccinated. We will assist them in making recommendations of how to increase awareness and identify which factors most influence people to get vaccinated.
 
-## Business Problem
+### Business Problem
 
 Which factors most influence whether a person receives a seasonal or H1N1 flu vaccine?
 
-## Recommendations
+### Recommendations
 
 Based on our analysis of the data, we would recommend honing in on these 4 factors:
 <ul>
@@ -21,7 +21,7 @@ Based on our analysis of the data, we would recommend honing in on these 4 facto
 
 We will dive into this further below!
 
-## Guiding Questions for Predictive Modeling
+### Guiding Questions for Predictive Modeling
 <ul>
   <li>Which model is the most effective in predicting whether a person received a seasonal flu shot?</li>
   <li>Which model is the most effective in predicting whether a person received a H1N1 flu shot?</li>
@@ -107,18 +107,18 @@ The dataset contains the following columns/ information:
 
 blah! blah! blah! blah! blah!
 
-## Conclusion
+# Conclusion
 
 ![bottlebanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/bottle%20banner.jpeg)
 
-Overall, the 3 most influential factors in determining whether a person got vaccinated against the H1N1 or the seasonal flu were:
+Overall, the 3 most influential factors in determining whether a person got vaccinated against H1N1 or the seasonal flu were:
 
 <ul> How effective they believed the vaccine to be at protecting against the flu.</ul>
 <ul> Whether a doctor recommended they get the vaccine.</ul>
 <ul> Their perceived level of risk of getting sick with the flu without the vaccine.</ul>
 
 ## Recommendations
-Based on our analysis, we would make the following 3 recommendations to 
+Based on our analysis, we would make the following 3 recommendations to the CDC to help reach their goal of increasing awareness and number of vaccinated people:
 
 <ul> Doctors should regularly recommend that their patients get vaccinated.</ul>
 <ul> Targeted efforts should be made to inform and provide access to vaccinations for people without health insurance and below the poverty line.</ul>
