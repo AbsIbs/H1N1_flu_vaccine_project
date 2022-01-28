@@ -117,17 +117,14 @@ After making a myriad of different models to predict our targets (H1N1/seasonal 
 ## H1N1 Analysis
 Here is a graph showing how our models performed based on the ROCAUC score for H1N1 vaccinations.
 ![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20models%20graph.png)
-<br>
-ROCAUC Score
 
+###ROCAUC Score
 ![h1n1roc](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20roc.png)
-<br>
-Confusion Matrix
 
+###Confusion Matrix
 ![h1n1confusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20cm.png)
-<br>
-Permutation Feature Importance
 
+###Permutation Feature Importance
 ![h1n1permutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20permutation.png)
 
 ## Seasonal Analysis
