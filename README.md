@@ -173,11 +173,11 @@ Like the H1N1 model, the features that were also important in the model's season
 <br>
 <img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.34.03%20PM.png" width="500" height="350">
 <br>
-<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.23%20PM.png" width="1000" height="750">
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.23%20PM.png" width="1000" height="600">
 <br>
-<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.36%20PM.png" width="1000" height="750">
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.36%20PM.png" width="1000" height="600">
 <br>
-<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.49%20PM.png" width="1000" height="750">
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.49%20PM.png" width="1000" height="600">
 <br>
 
 ## A Closer Look at the Health Insurance Feature
