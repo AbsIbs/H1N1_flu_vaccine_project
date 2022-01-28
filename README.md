@@ -128,7 +128,7 @@ After making a myriad of different models to predict our targets (H1N1/seasonal 
 ## H1N1 Analysis
 Here is a graph showing how our models performed based on the ROCAUC score for H1N1 vaccinations.
 
-![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1models.png)
+![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1models.png =100x20)
 
 #### ROCAUC Score
 The ROCAUC score for our model was .87.
