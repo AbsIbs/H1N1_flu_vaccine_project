@@ -119,12 +119,15 @@ Here is a graph showing how our models performed based on the ROCAUC score for H
 ![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20models%20graph.png)
 
 ###ROCAUC Score
+
 ![h1n1roc](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20roc.png)
 
 ###Confusion Matrix
+
 ![h1n1confusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20cm.png)
 
 ###Permutation Feature Importance
+
 ![h1n1permutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20permutation.png)
 
 ## Seasonal Analysis
