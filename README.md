@@ -169,13 +169,13 @@ Like the H1N1 model, the features that were also important in the model's season
 
 As you can see in the chart below, people with health insurance have a higher likelihood of receiving a vaccine. On the other hand, people without insurance are more unlikely to get the vaccine. Individuals without insurance are less likely to see a doctor, so their chances of getting the vaccine recommended to them, falls significantly. As mentioned previous, a doctor's recommendation is one of the top 3 most influential predictors.
 
-![healthinsurancegraph]( INSERT HEALTH INSURANCE GRAPH
+![healthinsurancegraph]( INSERT HEALTH INSURANCE GRAPH )
 
 ## Another Feature of Importance - Household Income
 
 In addition to not having health insurance, people that have a household income below the poverty line are also less likely to get vaccinated. 
 
-![Householdincomegraph]( INSERT HOUSEHOLD INCOME GRAPH
+![Householdincomegraph]( INSERT HOUSEHOLD INCOME GRAPH )
 
 
 # Conclusion
