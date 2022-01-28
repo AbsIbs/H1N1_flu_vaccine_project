@@ -169,9 +169,9 @@ Like the H1N1 model, the features that were also important in the model's season
 <br>
 ![drrecseasonal](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.45.38%20PM.png)
 <br>
-![povertyh1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.02%20PM.png)
+![povertyh1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.33.55%20PM.png)
 <br>
-![healthinsh1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.09%20PM.png)
+![healthinsh1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.34.03%20PM.png)
 <br>
 ![classification model1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%201.46.23%20PM.png)
 <br>
