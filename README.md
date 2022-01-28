@@ -97,7 +97,7 @@ Here are bar graphs of features and their rate based on H1N1 and seasonal survey
 ![features](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/featuresgraph.png)
 
 ### Heatmap
-<br>
+
 We created a heatmap to get a better understanding of the correlations between each feature, and their correlations to the H1N1 and seasonal vaccine. 
 ![heatmap](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/heatmap.png)
 
