@@ -22,6 +22,8 @@ Based on our analysis of the data, we would recommend honing in on these 4 facto
 We will dive into this further below!
 
 ### Guiding Questions for Predictive Modeling
+<br>
+We used these 4 quesitons below as a guide to completing this analysis:
 <ul>
   <li>Which model is the most effective in predicting whether a person received a seasonal flu shot?</li>
   <li>Which model is the most effective in predicting whether a person received a H1N1 flu shot?</li>
