@@ -36,7 +36,7 @@ We used these 4 quesitons below as a guide to completing this analysis:
 # The Data
 ![databanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/data-science-banner.jpeg)
 
-The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS) which was held by the Centres for Disease Control and Prevention (CDC). The survey sample consiste of over 26,000 people. This survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. This data was obtained to get a fair idea about the knowledge of people on the effectiveness and safety of flu vaccines and to learn why some people refrained from getting vaccinated against the H1N1 flu and seasonal flu.
+The data for our study is obtained from the Drivendata https://www.drivendata.org/competitions/66/flu-shot-learning/data/National. This was collected in 2009 H1N1 Flu Survey (NHFS) which was held by the Centres for Disease Control and Prevention (CDC). The survey sample consiste of over 26,000 people. This survey asked people whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. This data was obtained to get a fair idea about the knowledge of people on the effectiveness and safety of flu vaccines and to learn why some people refrained from getting vaccinated against the H1N1 flu and seasonal flu.
 
 The dataset contains the following columns/ information:
 <ul>
@@ -138,7 +138,8 @@ The confusion matrix reflects how well our model predicted true(1) when true(1) 
 
 #### Permutation Feature Importance
 
-Permutation feature importances show us which features were the important in our model's accuracy. It looks like many of the top features were personal opinions about the virus and vaccinations as well as recommendations by a doctor.
+This plot below shows permutation feature importances, which tells us which features were the most important in our model's accuracy. The top features were personal opinions about the virus and vaccinations as well as recommendations by a doctor. 
+
 ![h1n1permutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20permutation.png)
 
 ## Seasonal Analysis
@@ -160,7 +161,7 @@ The confusion matrix reflects how well our model predicted true(1) when true(1) 
 
 #### Permutation Feature Importance
 
-Like the H1N1 model, the features that were also important in the model's seasonal vaccination accuracy was personal opinions and recommendations from a doctor.
+Like the H1N1 model, the features that were also important in the model's seasonal vaccination accuracy, are personal opinions and recommendations from a doctor.
 ![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonalpermutation.png)
 
 <img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.29.22%20PM.png" width="500" height="350">
