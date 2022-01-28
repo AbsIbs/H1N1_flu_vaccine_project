@@ -121,6 +121,7 @@ Here is a graph showing how our models performed based on the ROCAUC score for H
 
 #### ROCAUC Score
 The ROCAUC score for our model was .87.
+<br>
 ![h1n1roc](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20roc.png)
 
 #### Confusion Matrix
