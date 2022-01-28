@@ -109,19 +109,10 @@ Listed below are the classifiers that we used to create our models:
   <li>Support Vector Machines</li>
   <li>Naive Bayes</li>
   <li>Voting Classifier</li>
-  <li>Ensemble Methods
-    <ul>
-          <li>Bagging: 
-            <ul>
-              <li>Random Forest</li>
-            </ul>
-          <li>Boosting: 
-             <ul>
-                   <li>Gradient Boost</li>
-                      <li>Histogram Gradient Boost</li>
-               <li>Cat Boost</li>
-               </ul>
-    </ul>
+  <li>Random Forest</li>
+  <li>Gradient Boost</li>
+  <li>Histogram Gradient Boost</li>
+  <li>Cat Boost</li>
 </ul>
 
 # Business Results
