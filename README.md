@@ -3,34 +3,38 @@
 
 ## Project Overview
 
-The North Georgia Hospital System has asked us, The Calc-A-Holics, if we can predict whether people received the H1N1 and seasonal flu vaccines. They have provided us with all the necessary data, which we will use to complete this analysis.
+We have been hired by the CDC as a part of a campaign to increase awareness and encourage more individuals to get vaccinated. We will assist them in making recommendations of how to increase awareness and identify which factors most influence people to get vaccinated.
 
-## Business Problem
+### Business Problem
 
-How can we predict whether a person received a seasonal or H1N1 flu vaccine?
+Which factors most influence whether a person receives a seasonal or H1N1 flu vaccine?
 
+### Recommendations
 
-Based on our analysis of the data, we would recommend:
+Based on our analysis of the data, we would recommend honing in on these 4 factors:
 <ul>
-  <li>X</li>
-  <li>Y</li>
-  <li>Z?</li>
+  <li>Doctor recommendation of vaccines</li>
+  <li>Opinion of vaccine effectiveness</li>
+  <li>Opinion of flu risk</li>
+  <li>Health insurance</li>
 </ul>
+
+We will dive into this further below!
 
 ### Guiding Questions for Predictive Modeling
 <ul>
-  <li>Which features are the most important in predicting whether a person received a seasonal flu shot?</li>
-  <li>Which features are the most important in predicting whether a person received a H1N1 flu shot?</li>
   <li>Which model is the most effective in predicting whether a person received a seasonal flu shot?</li>
   <li>Which model is the most effective in predicting whether a person received a H1N1 flu shot?</li>
+  <li>Which features are the most important in predicting whether a person received a seasonal flu shot?</li>
+  <li>Which features are the most important in predicting whether a person received a H1N1 flu shot?</li>
 </ul>
 
 
 
-## The Data
+# The Data
 ![databanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/data-science-banner.jpeg)
 
-The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS) which was held by the Centres for Disease Control and Prevention (CDC). This survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. This data was obtained to get a fair idea about the knowledge of people on the effectiveness and safety of flu vaccines and to learn why some people refrained from getting vaccinated against the H1N1 flu and seasonal flu.
+The data for our study is obtained from the National 2009 H1N1 Flu Survey (NHFS) which was held by the Centres for Disease Control and Prevention (CDC). The survey sample consiste of over 26,000 people. This survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. This data was obtained to get a fair idea about the knowledge of people on the effectiveness and safety of flu vaccines and to learn why some people refrained from getting vaccinated against the H1N1 flu and seasonal flu.
 
 The dataset contains the following columns/ information:
 <ul>
@@ -73,6 +77,10 @@ The dataset contains the following columns/ information:
 <li><strong>employment_occupation</strong> - Type of occupation - values are random character strings.</li>
 </ul>
 
+## Exploratory Data Analysis
+
+![heatmap](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%2012.19.07%20AM.png)
+
 ## Methodology 
 <ul>
   <li>Logistic Regression</li>
@@ -96,16 +104,61 @@ The dataset contains the following columns/ information:
     </ul>
 </ul>
 
-      
+# Business Results
 
-## Business Results
+## H1N1 Analysis
+
+![h1n1modelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20models%20graph.png)
+
+![h1n1roc](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20roc.png)
+
+![h1n1confusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/h1n1%20confusion%20matrix%20(1).png)
+
+![h1n1permutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/redid%20graph%20(1).png)
+
+## Seasonal Analysis
+
+![seasonalmodelsummary](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20models%20graph.png)
+
+![seasonalroccurve](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20roc.png)
+
+![seasonalconfusionmatrix](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/seasonal%20confusion%20matrix.png)
+
+![seasonalpermutations](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/redid%20graph.png)
 
 
-blah! blah! blah! blah! blah!
+## A Closer Look at the Health Insurance Feature
 
-## Conclusion
+As you can see in the chart below, people with health insurance have a higher likelihood of receiving a vaccine. On the other hand, people without insurance are more unlikely to get the vaccine. Individuals without insurance are less likely to see a doctor, so their chances of getting the vaccine recommended to them, falls significantly. As mentioned previous, a doctor's recommendation is one of the top 3 most influential predictors.
+
+![healthinsurancegraph]( INSERT HEALTH INSURANCE GRAPH
+
+## Another Feature of Importance - Household Income
+
+In addition to not having health insurance, people that have a household income below the poverty line are also less likely to get vaccinated. 
+
+![Householdincomegraph]( INSERT HOUSEHOLD INCOME GRAPH
+
+
+# Conclusion
 
 ![bottlebanner](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/bottle%20banner.jpeg)
 
-blah! blah! blah! blah! blah! blah!
+Overall, the 3 most influential factors in determining whether a person got vaccinated against H1N1 or the seasonal flu were:
+
+<ul> 
+<li> How effective they believed the vaccine to be at protecting against the flu.</li>
+<li> Whether a doctor recommended that they get the vaccine.</li>
+<li> Their perceived level of risk of getting sick with the flu without the vaccine.</li>
+</ul>
+
+## Recommendations
+Based on our analysis, we would make the following 3 recommendations to the CDC to help reach their goal of increasing awareness and increasing the number of vaccinated people:
+
+<ul> 
+<li> Doctors should regularly recommend that their patients get vaccinated.</li>
+<li> Targeted efforts should be made to inform and provide access to vaccinations for people without health insurance and below the poverty line.</li>
+<li> Inform people of the potential risks of H1N1/seasonal flu and provide more education on vaccine effectiveness.</li>
+</ul>
+
 
