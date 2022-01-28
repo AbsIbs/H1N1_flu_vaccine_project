@@ -165,7 +165,7 @@ Like the H1N1 model, the features that were also important in the model's season
 <br>
 ![agegroup_opinionseasonal](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.29.48%20PM.png)
 
-<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.29.48%20PM.png" width="100" height="100">
+<img src="https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.29.48%20PM.png" width="500" height="300">
 
 <br>
 ![drrech1n1](https://github.com/AbsIbs/H1N1_flu_vaccine_project/blob/main/images/Screen%20Shot%202022-01-28%20at%202.36.30%20PM.png)
