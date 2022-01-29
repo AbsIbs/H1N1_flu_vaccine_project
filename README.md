@@ -102,7 +102,7 @@ We created a heatmap to get a better understanding of the correlations between e
 
 ## Methodology
 
-Listed below are the classifiers that we used to create our models:
+After thoroughly cleaning and reviewing the data, we are now ready to build some models! Listed below are the classifiers that we used to create our models:
 <ul>
   <li>Logistic Regression</li>
   <li>Decision Tree</li>
@@ -117,7 +117,7 @@ Listed below are the classifiers that we used to create our models:
 
 # Business Results
 
-After making a myriad of different models to predict our targets (H1N1/seasonal vaccinations) we found that our best model was the CatBoost classifier using cross validation and a Bayesian optimization tool called Optuna.
+After making a myriad of different models to predict our targets (H1N1/seasonal vaccinations) we found that our best model was the CatBoost classifier using cross validation and a Bayesian optimization tool called Optuna. It outperformed all the models that we ran.
 
 ## H1N1 Analysis
 
