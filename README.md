@@ -86,7 +86,7 @@ We did a very thorough exploratory data analysis on our dataset before making ou
 There are two target variables in the labels dataset:
 <ul>
 <li><strong>h1n1_vaccine</strong></li> - Whether respondent received H1N1 flu vaccine.
-<li>strong>seasonal_vaccine</strong></li> - Whether respondent received seasonal flu vaccine.
+<li><strong>seasonal_vaccine</strong></li> - Whether respondent received seasonal flu vaccine.
 </ul>
 Both are binary variables: 0 = No; 1 = Yes. Some respondents didn't get either vaccine, others got only one, and some got both.
 
